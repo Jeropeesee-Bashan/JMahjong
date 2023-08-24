@@ -22,8 +22,8 @@ you.
 ```
 
 ## Project status
-JMahjong is in early development and I'm not sure if I'm going to work on it in
+The project is in early development and I'm not sure if I'm going to work on it in
 the future.
 
 ## License
-JMahjong's source code is licensed under GNU General Public License, version 3.
+The source code is licensed under GNU General Public License, version 3.
